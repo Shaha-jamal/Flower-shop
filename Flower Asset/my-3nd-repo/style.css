@@ -1,0 +1,180 @@
+.baner{
+    display: flex;
+    background-color: rgba(230, 214, 164, 0.541);
+    margin: auto;
+}
+.baner-content{
+    padding:120px 50px 0px 150px;
+
+}
+.baner-title{
+    font-size:50px;
+}
+.baner-description{
+    font-size:12px;
+    color:rgb(129, 126, 126);
+}
+.btn-primary{
+    color: white;
+    background-color: rgb(123, 187, 248);
+    font-size: 15px;
+    border:0px;
+    border-radius:5px;
+    padding:8px 15px 8px 15px;
+}
+.section-container{
+    text-align: center;
+}
+.flower-li{
+    display: flex;
+    margin-left: 60px;
+    gap: 10px;
+    
+}
+.flower-1{
+    background-color: cadetblue;
+    border: 0;
+    border-radius:200px 200px 0px 0px;
+    padding: 90px 50px 50px 60px;
+    margin: 0px 10px 0px 0px;
+    height: 400px;
+    width: 300px;
+}
+.pink{
+    height: 110%;
+}
+.flower-2{
+    background-color: rgb(145, 198, 245);
+    border: 0;
+    border-radius:200px 200px 0px 0px;
+    padding: 90px 40px 50px 60px;
+    margin: 0px 10px 0px 0px;
+    height: 400px;
+    width: 300px;
+}
+.sky{
+    height:110%;
+    width:300px;
+}
+.flower-3{
+    background-color: rgb(253, 57, 204);
+    border: 0;
+    border-radius:200px 200px 0px 0px;
+    padding: 90px 50px 50px 60px;
+    margin: 0px 10px 0px 0px;
+    height: 400px;
+    width: 300px;
+}
+.green{
+    height:110%;
+}
+.tree{
+    text-decoration: underline;
+    text-align: center;
+}
+.Group-container{
+    display: flex;
+    background-color: rgb(215, 211, 216);
+    justify-content: space-between;
+    padding: 30px 30px 30px 30px;
+    margin:50px 20px 30px 50px;
+}
+.img-1{
+    padding-left: 50px;
+}
+.img-2{
+    padding-left: 50px;
+}
+
+.img-3{
+    padding-left: 
+    30px;
+}
+.section-container-1{
+    display: flex;
+    background-color: rgb(155, 173, 135);
+    
+    padding: 50px 200px 60px 50px;
+}
+.section-1-contant{
+    text-align: center;
+    padding: 50px 100px 0px 100px;
+}
+.section-contant-description{
+    color: rgb(206, 30, 133);
+    font-size:12px;
+}
+span{
+    color: rgb(245, 10, 10);
+}
+.btn-primary-2{
+    background-color: rgb(230, 11, 11);
+    border: 0;
+    border-radius: 5px;
+    color:white;
+    padding: 10px 30px;
+}
+.inter-1st{
+    display: flex;
+    margin:20px 100px 20px 100px;
+}
+.png-1{
+    width: 95%;
+    height: 95%;
+} 
+.png-4{
+    width: 95%;
+    height: 95%; 
+} 
+.png-11{
+    width: 95%;
+    height: 95%;  
+}      
+    
+.png-12{
+    width: 95%;
+    height: 95%;  
+}
+.section-contant-2{
+    text-align: center;
+}
+.background{
+    background-image: url(Flower\ Asset/Rectangle\ 9.png);
+    width: 100%;
+    padding: 50px 80px 50px 80px;
+    background-repeat: no-repeat;
+}
+.background-contant{
+    text-align: center;
+}
+input{
+    padding: 10px 100px 10px 10px;
+    border: 0px;
+    border-radius: 5px;
+    background-color: white;
+}
+.btn-primary-3{
+    background-color: rgb(218, 20, 20);
+    border: 0px;
+    border-radius: 5px;
+    padding: 8px 15px 8px 15px;
+}
+.footer-description{
+color: rgb(206, 207, 199);
+font-size: 12px;
+}
+.copy-right{
+color: rgb(70, 67, 61);
+font-size: 10px;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    padding: 80px 50px 80px 50px;
+}
+span{
+    color: rgb(238, 5, 5);
+}
+.footer-title{
+    color: wheat;
+}
